@@ -1,0 +1,4 @@
+Graph data structor:
+ I dont understand how it works especially the weight part
+
+Bubble sorting algo  
